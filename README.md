@@ -1,6 +1,3 @@
-
-
-
 # Daily-Attendance
 Daily Attendance
 
